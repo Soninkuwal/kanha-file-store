@@ -50,8 +50,8 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "FILESTOREKANHA_BOT") # your bot user
 PICS = (environ.get('PICS', 'https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
-AUTO_DELETE = int(environ.get("AUTO_DELETE", "")) # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "")) # Time in Seconds
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "0")) # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "0")) # Time in Seconds
 
 # Channel Information
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002128097471"))
@@ -66,7 +66,7 @@ CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 
 # Enable - True or Disable - False
-PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
+PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "True")), True)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 # Don't Remove Credit Tg - @VJ_Botz
