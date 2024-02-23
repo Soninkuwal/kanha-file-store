@@ -7,16 +7,16 @@ class script(object):
     START_TXT = """<b> 
 😊 【HELLO BABY】 😍 
   
-  {} 
+ {} 
 
 【 I AM KANHA FILE STORAGE BOT 】
 
 【💕❤️ MY FATHER❤️💕 】
-     @Chatkanhabot 
+       @Chatkanhabot 
      
 【 JOIN MY UPDATE CHANNEL 】
- 👇👇👇👇👇👇👇👇 
-<a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
+    👇👇👇👇👇👇👇👇 
+  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
