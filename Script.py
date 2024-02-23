@@ -4,7 +4,12 @@
 
 
 class script(object):
-    START_TXT = """ 😊 【HELLO BABY】 😍, /n/n{} /n/n【I AM KANHA FILE STORAGE BOT /n/n💕❤️ MY FATHER❤️💕 @Chatkanhabot /n/nJOIN MY UPDATE CHANNEL👇👇👇👇👇👇👇👇 /n/n <a href=https://t.me/Sonickuwalupdate</a> 】"""
+    START_TXT = """<b> 😊 【HELLO BABY】 😍 
+             {} 
+    【I AM KANHA FILE STORAGE BOT
+    💕❤️ MY FATHER❤️💕 @Chatkanhabot 
+    JOIN MY UPDATE CHANNEL👇👇👇👇👇👇👇👇 】
+    <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -33,7 +38,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b> 😊 【HELLO BABY】 😍  {} 【I AM KANHA FILE STORAGE BOT💕❤️ MY FATHER❤️💕 @Chatkanhabot JOIN MY UPDATE CHANNEL👇👇👇👇👇👇👇👇 https://t.me/Sonickuwalupdate】  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
+    CLONE_START_TXT = """<b> 😊 【HELLO BABY】 😍  {} 【I AM KANHA FILE STORAGE BOT💕❤️ MY FATHER❤️💕 @Chatkanhabot JOIN MY UPDATE CHANNEL👇👇👇👇👇👇👇👇 https://t.me/Sonickuwalupdate 】 <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
