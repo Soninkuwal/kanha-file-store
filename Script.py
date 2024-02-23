@@ -16,7 +16,9 @@ class script(object):
      
 【 JOIN MY UPDATE CHANNEL 】
     👇👇👇👇👇👇👇👇 
-  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
+  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
+  
+ I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -45,25 +47,40 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    CLONE_START_TXT = """<b> 😊 【HELLO BABY】 😍  {} 【I AM KANHA FILE STORAGE BOT💕❤️ MY FATHER❤️💕 @Chatkanhabot JOIN MY UPDATE CHANNEL👇👇👇👇👇👇👇👇 https://t.me/Sonickuwalupdate 】 <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a></b>"""
+    CLONE_START_TXT = """<b> 
+😊 【HELLO BABY】 😍 
+  
+ {} 
+
+【 I AM KANHA FILE STORAGE BOT 】
+
+【💕❤️ MY FATHER❤️💕 】
+       @Chatkanhabot 
+     
+【 JOIN MY UPDATE CHANNEL 】
+    👇👇👇👇👇👇👇👇 
+ <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
+ 
+ 
+I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    ABOUT_TXT = """<b>HI I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.
 
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
+🤖 MY NAME ⚡ : {}
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
+📝  LANGUAGE ☺️ : <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
 
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
+📚  LIBRARY ⭐ : <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Kingvj01>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
+🧑🏻‍💻  DEVELOPER ⚡ : <a href=https://t.me/Chatkanhabot>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/VJ_Bot_Disscussion>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥  SUPPORT CHATS ⚡ : <a href=https://t.me/Chatkanhabot>𝐒𝐮𝐩𝐩𝐨𝐫𝐭 CHAT</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/vj_botz>𝐕𝐉 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+📢  UPDATE CHANNEL ⭐ : <a href=https://t.me/Sonickuwalupdate>𝐔𝐩𝐝𝐚𝐭𝐞 CHANNEL</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
