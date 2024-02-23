@@ -72,26 +72,26 @@ I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS 
 
 🤖 MY NAME ⚡ : {}
 
+📝  LANGUAGE ☺️ : <a href=https://www.python.org>Python3</a>
+
+📚  LIBRARY ⭐ : <a href=https://docs.pyrogram.org>PYROGRAM</a>
+
+🧑🏻‍💻  DEVELOPER ⚡ : <a href=https://t.me/Chatkanhabot>KANHAIYA LAL MEENA KUWAL</a>
+
+👥  SUPPORT CHATS ⚡ : <a href=https://t.me/Chatkanhabot>SUPPORT CHAT</a>
+
+📢  UPDATE CHANNEL ⭐ : <a href=https://t.me/Sonickuwalupdate>UPDATE CHANNEL</a></b>
+"""
+
+    CABOUT_TXT = """<b>HI I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.
+
+🤖 MY NAME ⚡ : {}
+
 📝  LANGUAGE ☺️ : <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
 
 📚  LIBRARY ⭐ : <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻  DEVELOPER ⚡ : <a href=https://t.me/Chatkanhabot>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
-
-👥  SUPPORT CHATS ⚡ : <a href=https://t.me/Chatkanhabot>𝐒𝐮𝐩𝐩𝐨𝐫𝐭 CHAT</a>
-
-📢  UPDATE CHANNEL ⭐ : <a href=https://t.me/Sonickuwalupdate>𝐔𝐩𝐝𝐚𝐭𝐞 CHANNEL</a></b>
-"""
-
-    CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
-
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
-
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
-
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=tg://user?id={}>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
+🧑🏻‍💻  DEVELOPER ⚡ : <a href=tg://user?id={}>♬🍩  ᴅᴇᴠᴇʟᴏᴘᴇʀ  💎🎀</a></b>
 """
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -112,12 +112,12 @@ I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS 
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ ☺️
+    HELP_TXT = """<b>💢 𝙃ᴏᴡ 𝙏ᴏ 𝙐𝙨ᴇ 𝙏ʜɪ𝙨 𝘽ᴏᴛ ☺️
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
 🔻 /batch - sᴇɴᴅ ғɪʀsᴛ ʟɪɴᴋ ᴏғ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛ ᴛʜᴇɴ ʟᴀsᴛ ᴘᴏsᴛ ʟɪɴᴋ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch https://t.me/vj_botz/25 https://t.me/vj_botz/30
+ᴇx - /batch https://t.me/xxxx/25 https://t.me/xxxxx/30
 
 🔻 /base_site - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ᴅᴏᴍᴀɪɴ 
 ᴇx - /base_site ʏᴏᴜʀᴅᴏᴍᴀɪɴ.ᴄᴏᴍ
