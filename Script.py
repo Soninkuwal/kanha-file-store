@@ -29,7 +29,7 @@ class script(object):
 
 SIZE ⚙️: {file_size}
 
-🅑🅐🅣🅒🅗 🅝🅐🅜🅔 ➤: {b_name}
+BATCH 🎭: {b_name}
 
 JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
 
