@@ -29,8 +29,6 @@ class script(object):
 
 SIZE ⚙️: {file_size}
 
-BATCH 🎭: {batch_name}
-
 JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -57,6 +55,7 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 【 I AM KANHA FILE STORAGE BOT 】
 
 【💕❤️ MY FATHER❤️💕 】
+ KANHAIYA LAL MEENA KUWAL 
        @Chatkanhabot 
      
 【 JOIN MY UPDATE CHANNEL 】
