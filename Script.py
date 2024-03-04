@@ -29,6 +29,8 @@ class script(object):
 
 SIZE ⚙️: {file_size}
 
+🅑🅐🅣🅒🅗 🅝🅐🅜🅔 ➤ : {b_name}
+
 JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
