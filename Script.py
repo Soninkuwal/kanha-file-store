@@ -5,30 +5,33 @@
 
 class script(object):
     START_TXT = """<b> 
-😊 【HELLO BABY】 😍 
+    
+😊 【HELLO ❣️ JANU ❣️】 😍 
   
- {} 
+⚡ YOUR NAME 💘 👉 {} 
 
 【 I AM KANHA FILE STORAGE BOT 】
 
 【💕❤️ MY FATHER❤️💕 】
-   KANHA MEENA KUWAL
-    @Chatkanhabot 
+   ❤️ KANHA MEENA KUWAL ⚡
+  <a href=https://t.me/Chatkanhabot>CONTACT ☎️ NOW</a>
      
 【 JOIN MY UPDATE CHANNEL 】
     👇👇👇👇👇👇👇👇 
   <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
   
  I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.</b>"""
+    
 
-# Don't Remove Credit Tg - @VJ_Botz
+   
+#Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
     
     CAPTION = """<b>FILE NAME 📂: {file_name}
 
-SIZE ⚙️: {file_size}
+SIZE ⚙️ : {file_size}
 
 JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
 
@@ -49,22 +52,22 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
 # Ask Doubt on telegram @KingVJ01
 
     CLONE_START_TXT = """<b> 
-😊 【HELLO BABY】 😍 
+    
+😊 【HELLO ❣️ JANU ❣️】 😍 
   
- {} 
+⚡ YOUR NAME 💘 👉 {} 
 
 【 I AM KANHA FILE STORAGE BOT 】
 
 【💕❤️ MY FATHER❤️💕 】
-    KANHA MEENA KUWAL 
-      @Chatkanhabot 
+   ❤️ KANHA MEENA KUWAL ⚡
+  <a href=https://t.me/Chatkanhabot>CONTACT ☎️ NOW</a>
      
 【 JOIN MY UPDATE CHANNEL 】
     👇👇👇👇👇👇👇👇 
- <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
- 
- 
-I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.</b>"""
+  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
+  
+ I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.</b>"""
 
     CAPTION = """<b>FILE NAME 📂: {file_name}
 
@@ -74,8 +77,7 @@ JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>"""
     
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @King
-
+# Ask Doubt on telegram @KingVJ01
 
     ABOUT_TXT = """<b>HI I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.
 
@@ -100,7 +102,7 @@ JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>"""
 
 📚  LIBRARY ⭐ : <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻  DEVELOPER ⚡ : <a href=tg://user?id={}>♬🍩  ᴅᴇᴠᴇʟᴏᴘᴇʀ  💎🎀</a></b>
+🧑🏻‍💻  DEVELOPER ⚡ : <a href=https://t.me/Chatkanhabot>KANHAIYA LAL MEENA KUWAL</a></b>
 """
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -121,7 +123,7 @@ JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b>💢 𝙃ᴏᴡ 𝙏ᴏ 𝙐𝙨ᴇ 𝙏ʜɪ𝙨 𝘽ᴏᴛ ☺️
+    HELP_TXT = """<b>💢 Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ ☺️
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
