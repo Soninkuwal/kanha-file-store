@@ -50,8 +50,8 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "FILESTOREKANHA_BOT") # your bot user
 PICS = (environ.get('PICS', 'https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
-AUTO_DELETE = int(environ.get("AUTO_DELETE", "1440")) # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "86400")) # Time in Seconds
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "2880")) # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "172800")) # Time in Seconds
 
 # Channel Information
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002057338886"))
