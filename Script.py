@@ -66,15 +66,15 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
  
 I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.</b>"""
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
-       CAPTION = """<b>FILE NAME 📂: {file_name}
+    CAPTION = """<b>FILE NAME 📂: {file_name}
 
 SIZE ⚙️: {file_size}
 
 JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
+    
+# Don't Remove Credit Tg - @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Ask Doubt on telegram @King
 
 
     ABOUT_TXT = """<b>HI I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE.
