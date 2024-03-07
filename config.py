@@ -35,17 +35,17 @@ API_HASH = environ.get("API_HASH", "93f6b8ce4bb0ab61b4c7e42187f2aa64")
 ADMINS = int(environ.get("ADMINS", "1664376941"))
 
 # Database Information
-CLONE_DB_URI = environ.get("CLONE_DB_URI", "mongodb+srv://Jshdhdddhdu:UrJLNHD56YaWvbwY@hshsrbdue.nojdpsb.mongodb.net/?retryWrites=true&w=majority&appName=Hshsrbdue")
-CDB_NAME = environ.get("CDB_NAME", "Hshsrbdue")
-DB_URI = environ.get("DB_URI", "mongodb+srv://Jsusshsu:b3UODmiarTxTOW5b@jsshshsh.fixiwbk.mongodb.net/?retryWrites=true&w=majority&appName=Jsshshsh")
-DB_NAME = environ.get("DB_NAME", "Jsshshsh")
+CLONE_DB_URI = environ.get("CLONE_DB_URI", "mongodb+srv://filestorage2:YNxY7LoT7l5OgTdW@filestorage2.qukq4qz.mongodb.net/?retryWrites=true&w=majority&appName=filestorage2")
+CDB_NAME = environ.get("CDB_NAME", "filestorage2")
+DB_URI = environ.get("DB_URI", "mongodb+srv://filestorage1:U9gtO0MJU8GctVju@filestorage1.pjs6tc5.mongodb.net/?retryWrites=true&w=majority&appName=filestorage1")
+DB_NAME = environ.get("DB_NAME", "filestorage1")
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "6459208948:AAEqyO0mzOD6H1RfANdEqNY49e_18iylHkw")
 BOT_USERNAME = environ.get("BOT_USERNAME", "FILESTOREKANHA_BOT") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg https://graph.org/file/95a9fc09cc310c0c8cd6f.jpg')).split() # Bot Start Picture
 
