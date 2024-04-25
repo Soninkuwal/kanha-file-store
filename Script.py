@@ -32,9 +32,12 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>FILE NAME 📂: {file_name}
+    CAPTION = """<b>FILE NAME 📂 : {file_name}
 
 SIZE ⚙️ : {file_size}
+
+𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘  ➤ 💕 IPS LOVER'S ❤️
+  📌 ✅ @Chatkanhabot 💖 📌
 
 JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
 
