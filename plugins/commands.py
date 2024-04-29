@@ -62,13 +62,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('💝 𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐘 ⚡', url='https://t.me/Chatkanhabot')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Chatkanhabot'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Sonickuwalupdate')
+            InlineKeyboardButton('🔍 SUPPORT CHAT', url='https://t.me/Chatkanhabot'),
+            InlineKeyboardButton('🤖 JOIN UPDATED CHANNEL 📌', url='https://t.me/Sonickuwalupdate')
             ],[
-            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
+            InlineKeyboardButton('🤖 MAKE YOUR CLONE BOT ', callback_data='clone')
             ],[
-            InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💁‍♀️ HELP ', callback_data='help'),
+            InlineKeyboardButton('😊 ABOUT', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         me2 = (await client.get_me()).mention
@@ -134,7 +134,7 @@ async def start(client, message):
                     chat_id=message.from_user.id,
                     file_id=msg.get("file_id"),
                     caption=f_caption,
-                    protect_content=msg.get('protect', False),
+                    protect_content=msg.get('protect', True),
                     )
             except Exception as e:
                 logger.warning(e, exc_info=True)
@@ -174,13 +174,13 @@ async def start(client, message):
                     f_caption = getattr(msg, 'caption', file_name)
                 try:
                     h = await message.reply_text(f"<b><u>❗️❗️❗️IMPORTANT❗️️❗️❗️</u></b>\n\nThis  File/Video will be deleted in <b><u>{AUTO_DELETE} minutes</u> 🫥 <i></b>(Due to Copyright Issues)</i>.\n\n<b><i>Please forward this File/Video to your Saved Messages and Start Download there. THIS BOT FAST ⏩ DOWNLOAD AND WATCH ONLINE 👀 NOT WORKING SORRY 😐 NO PROBLEM MY NEW BOT USE - @FILETOSTREAMKANHABOT</b>")
-                    k = await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else False)
+                    k = await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else True)
                     
                     asyncio.create_task(delete_after_delay(k, AUTO_DELETE_TIME))
                     asyncio.create_task(delete_after_delay(h, AUTO_DELETE_TIME))
                 except FloodWait as e:
                     await asyncio.sleep(e.x)
-                    await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else False)
+                    await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else True)
                 except Exception as e:
                     logger.exception(e)
                     continue
@@ -188,10 +188,10 @@ async def start(client, message):
                 continue
             else:
                 try:
-                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else False)
+                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else True)
                 except FloodWait as e:
                     await asyncio.sleep(e.x)
-                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else False)
+                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else True)
                 except Exception as e:
                     logger.exception(e)
                     continue
@@ -209,7 +209,7 @@ async def start(client, message):
             msg = await client.send_cached_media(
                 chat_id=message.from_user.id,
                 file_id=file_id,
-                protect_content=True if pre == 'filep' else False,  
+                protect_content=True if pre == 'filep' else True,  
             )
             filetype = msg.media
             file = getattr(msg, filetype.value)
@@ -265,7 +265,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        protect_content=True if pre == 'filep' else False,
+        protect_content=True if pre == 'filep' else True,
         )
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -340,13 +340,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('💝 𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐘 ⚡', url='https://t.me/Chatkanhabot')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Chatkanhabot'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Sonickuwalupdate')
+            InlineKeyboardButton('🔍 SUPPORT CHAT', url='https://t.me/Chatkanhabot'),
+            InlineKeyboardButton('🤖 JOIN UPDATED CHANNEL 📌', url='https://t.me/Sonickuwalupdate')
             ],[
-            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
+            InlineKeyboardButton('🤖 MAKE YOUR CLONE BOT ', callback_data='clone')
             ],[
-            InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💁‍♀️ HELP ', callback_data='help'),
+            InlineKeyboardButton('😊 ABOUT', callback_data='about')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -368,8 +368,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "clone":
         buttons = [[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔒 Cʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('Help', callback_data='start'),
+            InlineKeyboardButton('🔒 close', callback_data='close_data')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -389,8 +389,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔒 Cʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('Help', callback_data='start'),
+            InlineKeyboardButton('🔒 close', callback_data='close_data')
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
