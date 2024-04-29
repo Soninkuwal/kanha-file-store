@@ -63,7 +63,7 @@ https://github.com/VJBots/VJ-File-Store
 🖍️ Main Bot Commands :-
 ```
 start - By This Command You Can Check Bot Is Alive Or Not
-link -By This Command You Can Generate A Shareable Link Of File By Replying This Command To That File
+link - By This Command You Can Generate A Shareable Link Of File By Replying This Command To That File
 batch - By This Command You Can Generate Multiple File Shareable Link At A Time [Use Like This /batch (first post link) (last post link)]
 base_site - By This Command You Can Set Your Url Shortner Domain [Use Like This /base_site domain.com]
 api - By This Command You Can Set Your Url Shortner Api [Use Like This /api (your api key)]
