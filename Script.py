@@ -16,9 +16,15 @@ class script(object):
    ❤️ KANHA MEENA KUWAL ⚡
   <a href=https://t.me/Chatkanhabot>CONTACT ☎️ NOW</a>
      
-【 JOIN MY UPDATE CHANNEL 】
-    👇👇👇👇👇👇👇👇 
-  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
+╔══════════════════╗
+ [📌 JOIN MOVIE GROUP 🎭 ] 
+   👇👇👇👇👇👇👇👇👇
+<a href=https://t.me/SONICKUWALMOVIE>JOIN MOVIE 🎥 GROUP</a>
+
+ [📌 JOIN UPDATE CHANNEL ⚡]
+👇👇👇👇👇👇👇👇
+<a href=https://t.me/Sonickuwalupdate>JOIN UPDATED CHANNEL</a>
+╚══════════════════╝
   
  I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE. 
  
@@ -36,10 +42,19 @@ class script(object):
 
 SIZE ⚙️ : {file_size}
 
-𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘  ➤ 💕 IPS LOVER'S ❤️
-  📌 ✅ @Chatkanhabot 💖 📌
+𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘  ➤ 
+💕 IPS LOVER'S ❤️
+📌 ✅ (https://t.me/Chatkanhabot) 💖 📌
 
-JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
+╔══════════════════╗
+ [📌 JOIN MOVIE GROUP 🎭 ] 
+   👇👇👇👇👇👇👇👇👇
+<a href=https://t.me/SONICKUWALMOVIE>JOIN MOVIE 🎥 GROUP</a>
+
+ [📌 JOIN UPDATE CHANNEL ⚡]
+👇👇👇👇👇👇👇👇
+<a href=https://t.me/Sonickuwalupdate>JOIN UPDATED CHANNEL</a>
+╚══════════════════╝</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -69,20 +84,38 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"""
    ❤️ KANHA MEENA KUWAL ⚡
   <a href=https://t.me/Chatkanhabot>CONTACT ☎️ NOW</a>
      
-【 JOIN MY UPDATE CHANNEL 】
-    👇👇👇👇👇👇👇👇 
-  <a href=https://t.me/Sonickuwalupdate>JOIN UPDATE CHANNEL</a>
+╔══════════════════╗
+ [📌 JOIN MOVIE GROUP 🎭 ] 
+   👇👇👇👇👇👇👇👇👇
+<a href=https://t.me/SONICKUWALMOVIE>JOIN MOVIE 🎥 GROUP</a>
+
+ [📌 JOIN UPDATE CHANNEL ⚡]
+👇👇👇👇👇👇👇👇
+<a href=https://t.me/Sonickuwalupdate>JOIN UPDATED CHANNEL</a>
+╚══════════════════╝
   
  I AM PERMANENT FILE STORE BOT WITH CLONE FEATURE + CUSTOM URL SHORTNER IT MEANS ANY USER CAN SET HIS URL SHORTNER AND + AUTO DELETE. 
  
  
  (THIS BOT FAST ⏩ DOWNLOAD AND WATCH ONLINE 👀 NOT WORKING SORRY 😐 NO PROBLEM MY NEW BOT USE - @FILETOSTREAMKANHABOT)</b>"""
 
-    CAPTION = """<b>FILE NAME 📂: {file_name}
+    CAPTION = """<b>FILE NAME 📂 : {file_name}
 
-SIZE ⚙️: {file_size}
+SIZE ⚙️ : {file_size}
 
-JOIN [⚡ UPDATE CHANNEL ⚡](https://t.me/Sonickuwalupdate)</b>""" 
+𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘  ➤ 
+💕 IPS LOVER'S ❤️
+📌 ✅ (https://t.me/Chatkanhabot) 💖 📌
+
+╔══════════════════╗
+ [📌 JOIN MOVIE GROUP 🎭 ] 
+   👇👇👇👇👇👇👇👇👇
+<a href=https://t.me/SONICKUWALMOVIE>JOIN MOVIE 🎥 GROUP</a>
+
+ [📌 JOIN UPDATE CHANNEL ⚡]
+👇👇👇👇👇👇👇👇
+<a href=https://t.me/Sonickuwalupdate>JOIN UPDATED CHANNEL</a>
+╚══════════════════╝</b>""" 
     
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
